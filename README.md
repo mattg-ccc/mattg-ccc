@@ -21,8 +21,6 @@ Current learning:
 How to reach me:
 - **email:** mbgustavson50@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/mbgustavson/](https://www.linkedin.com/in/mbgustavson/)
-- 
-- 
 <!--
 **mattg-ccc/mattg-ccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
